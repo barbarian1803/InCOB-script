@@ -1,0 +1,15 @@
+filename	samplename	colnames	type	patient
+634_quant.genes.sf	634	normal_634	normal	p1
+635_quant.genes.sf	635	normal_635	normal	p2
+636_quant.genes.sf	636	normal_636	normal	p3
+637_quant.genes.sf	637	normal_637	normal	p4
+638_quant.genes.sf	638	normal_638	normal	p5
+639_quant.genes.sf	639	normal_639	normal	p6
+640_quant.genes.sf	640	normal_640	normal	p7
+641_quant.genes.sf	641	cancer_641	cancer	p1
+642_quant.genes.sf	642	cancer_642	cancer	p2
+643_quant.genes.sf	643	cancer_643	cancer	p3
+644_quant.genes.sf	644	cancer_644	cancer	p4
+645_quant.genes.sf	645	cancer_645	cancer	p5
+646_quant.genes.sf	646	cancer_646	cancer	p6
+647_quant.genes.sf	647	cancer_647	cancer	p7

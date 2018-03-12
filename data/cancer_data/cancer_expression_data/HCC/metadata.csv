@@ -1,0 +1,61 @@
+!Sample_title	!File_name	!Sample_geo_accession	!Sample_source_name_ch1	!Type	!Sample_characteristics_ch1	!Sample_characteristics_ch1	!Sample_characteristics_ch1	!Sample_characteristics_ch1	!Sample_characteristics_ch1
+N3	GSM2053435_N3.sf_normalized_count.txt	GSM2053435	adjacent normal	normal	gender: female	age: 46	tumor size (cm): 6	hbv infection: Yes	cirrhosis: Yes
+N6	GSM2053436_N6.sf_normalized_count.txt	GSM2053436	adjacent normal	normal	gender: male	age: 35	tumor size (cm): 14.1	hbv infection: Yes	cirrhosis: Yes
+N7	GSM2053437_N7.sf_normalized_count.txt	GSM2053437	adjacent normal	normal	gender: male	age: 42	tumor size (cm): 38	hbv infection: Yes	cirrhosis: Yes
+N8	GSM2053438_N8.sf_normalized_count.txt	GSM2053438	adjacent normal	normal	gender: male	age: 61	tumor size (cm): 8	hbv infection: No	cirrhosis: No
+N10	GSM2053439_N10.sf_normalized_count.txt	GSM2053439	adjacent normal	normal	gender: male	age: 66	tumor size (cm): 12	hbv infection: Yes	cirrhosis: Yes
+N11	GSM2053440_N11.sf_normalized_count.txt	GSM2053440	adjacent normal	normal	gender: male	age: 53	tumor size (cm): 8	hbv infection: Yes	cirrhosis: Yes
+N12	GSM2053441_N12.sf_normalized_count.txt	GSM2053441	adjacent normal	normal	gender: female	age: 49	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+N13	GSM2053442_N13.sf_normalized_count.txt	GSM2053442	adjacent normal	normal	gender: male	age: 52	tumor size (cm): 17	hbv infection: Yes	cirrhosis: Yes
+N14	GSM2053443_N14.sf_normalized_count.txt	GSM2053443	adjacent normal	normal	gender: female	age: 51	tumor size (cm): 5.5	hbv infection: Yes	cirrhosis: Yes
+N15	GSM2053444_N15.sf_normalized_count.txt	GSM2053444	adjacent normal	normal	gender: male	age: 47	tumor size (cm): 5	hbv infection: Yes	cirrhosis: Yes
+N16	GSM2053445_N16.sf_normalized_count.txt	GSM2053445	adjacent normal	normal	gender: male	age: 43	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+N17	GSM2053446_N17.sf_normalized_count.txt	GSM2053446	adjacent normal	normal	gender: male	age: 60	tumor size (cm): 3	hbv infection: Yes	cirrhosis: Yes
+N18	GSM2053447_N18.sf_normalized_count.txt	GSM2053447	adjacent normal	normal	gender: male	age: 61	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+N19	GSM2053448_N19.sf_normalized_count.txt	GSM2053448	adjacent normal	normal	gender: male	age: 43	tumor size (cm): 7	hbv infection: Yes	cirrhosis: Yes
+N20	GSM2053449_N20.sf_normalized_count.txt	GSM2053449	adjacent normal	normal	gender: male	age: 64	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+N21	GSM2053450_N21.sf_normalized_count.txt	GSM2053450	adjacent normal	normal	gender: male	age: 40	tumor size (cm): 7	hbv infection: NA	cirrhosis: Yes
+N22	GSM2053451_N22.sf_normalized_count.txt	GSM2053451	adjacent normal	normal	gender: male	age: 53	tumor size (cm): 19	hbv infection: Yes	cirrhosis: No
+N24	GSM2053452_N24.sf_normalized_count.txt	GSM2053452	adjacent normal	normal	gender: male	age: 62	tumor size (cm): 2.4	hbv infection: Yes	cirrhosis: Yes
+N25	GSM2053453_N25.sf_normalized_count.txt	GSM2053453	adjacent normal	normal	gender: male	age: 48	tumor size (cm): 6.7	hbv infection: Yes	cirrhosis: No
+N26	GSM2053454_N26.sf_normalized_count.txt	GSM2053454	adjacent normal	normal	gender: male	age: 49	tumor size (cm): NA	hbv infection: Yes	cirrhosis: Yes
+T3	GSM2053455_T3.sf_normalized_count.txt	GSM2053455	primary tumor	primary_tumor	gender: female	age: 46	tumor size (cm): 6	hbv infection: Yes	cirrhosis: Yes
+T6	GSM2053456_T6.sf_normalized_count.txt	GSM2053456	primary tumor	primary_tumor	gender: male	age: 35	tumor size (cm): 14.1	hbv infection: Yes	cirrhosis: Yes
+T7	GSM2053457_T7.sf_normalized_count.txt	GSM2053457	primary tumor	primary_tumor	gender: male	age: 42	tumor size (cm): 38	hbv infection: Yes	cirrhosis: Yes
+T8	GSM2053458_T8.sf_normalized_count.txt	GSM2053458	primary tumor	primary_tumor	gender: male	age: 61	tumor size (cm): 8	hbv infection: No	cirrhosis: No
+T10	GSM2053459_T10.sf_normalized_count.txt	GSM2053459	primary tumor	primary_tumor	gender: male	age: 66	tumor size (cm): 12	hbv infection: Yes	cirrhosis: Yes
+T11	GSM2053460_T11.sf_normalized_count.txt	GSM2053460	primary tumor	primary_tumor	gender: male	age: 53	tumor size (cm): 8	hbv infection: Yes	cirrhosis: Yes
+T12	GSM2053461_T12.sf_normalized_count.txt	GSM2053461	primary tumor	primary_tumor	gender: female	age: 49	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+T13	GSM2053462_T13.sf_normalized_count.txt	GSM2053462	primary tumor	primary_tumor	gender: male	age: 52	tumor size (cm): 17	hbv infection: Yes	cirrhosis: Yes
+T14	GSM2053463_T14.sf_normalized_count.txt	GSM2053463	primary tumor	primary_tumor	gender: female	age: 51	tumor size (cm): 5.5	hbv infection: Yes	cirrhosis: Yes
+T15	GSM2053464_T15.sf_normalized_count.txt	GSM2053464	primary tumor	primary_tumor	gender: male	age: 47	tumor size (cm): 5	hbv infection: Yes	cirrhosis: Yes
+T16	GSM2053465_T16.sf_normalized_count.txt	GSM2053465	primary tumor	primary_tumor	gender: male	age: 43	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+T17	GSM2053466_T17.sf_normalized_count.txt	GSM2053466	primary tumor	primary_tumor	gender: male	age: 60	tumor size (cm): 3	hbv infection: Yes	cirrhosis: Yes
+T18	GSM2053467_T18.sf_normalized_count.txt	GSM2053467	primary tumor	primary_tumor	gender: male	age: 61	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+T19	GSM2053468_T19.sf_normalized_count.txt	GSM2053468	primary tumor	primary_tumor	gender: male	age: 43	tumor size (cm): 7	hbv infection: Yes	cirrhosis: Yes
+T20	GSM2053469_T20.sf_normalized_count.txt	GSM2053469	primary tumor	primary_tumor	gender: male	age: 64	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+T21	GSM2053470_T21.sf_normalized_count.txt	GSM2053470	primary tumor	primary_tumor	gender: male	age: 40	tumor size (cm): 7	hbv infection: NA	cirrhosis: Yes
+T22	GSM2053471_T22.sf_normalized_count.txt	GSM2053471	primary tumor	primary_tumor	gender: male	age: 53	tumor size (cm): 19	hbv infection: Yes	cirrhosis: No
+T24	GSM2053472_T24.sf_normalized_count.txt	GSM2053472	primary tumor	primary_tumor	gender: male	age: 62	tumor size (cm): 2.4	hbv infection: Yes	cirrhosis: Yes
+T25	GSM2053473_T25.sf_normalized_count.txt	GSM2053473	primary tumor	primary_tumor	gender: male	age: 48	tumor size (cm): 6.7	hbv infection: Yes	cirrhosis: No
+T26	GSM2053474_T26.sf_normalized_count.txt	GSM2053474	primary tumor	primary_tumor	gender: male	age: 49	tumor size (cm): NA	hbv infection: Yes	cirrhosis: Yes
+P3	GSM2053475_P3.sf_normalized_count.txt	GSM2053475	PVTT	PVTT	gender: female	age: 46	tumor size (cm): 6	hbv infection: Yes	cirrhosis: Yes
+P6	GSM2053476_P6.sf_normalized_count.txt	GSM2053476	PVTT	PVTT	gender: male	age: 35	tumor size (cm): 14.1	hbv infection: Yes	cirrhosis: Yes
+P7	GSM2053477_P7.sf_normalized_count.txt	GSM2053477	PVTT	PVTT	gender: male	age: 42	tumor size (cm): 38	hbv infection: Yes	cirrhosis: Yes
+P8	GSM2053478_P8.sf_normalized_count.txt	GSM2053478	PVTT	PVTT	gender: male	age: 61	tumor size (cm): 8	hbv infection: No	cirrhosis: No
+P10	GSM2053479_P10.sf_normalized_count.txt	GSM2053479	PVTT	PVTT	gender: male	age: 66	tumor size (cm): 12	hbv infection: Yes	cirrhosis: Yes
+P11	GSM2053480_P11.sf_normalized_count.txt	GSM2053480	PVTT	PVTT	gender: male	age: 53	tumor size (cm): 8	hbv infection: Yes	cirrhosis: Yes
+P12	GSM2053481_P12.sf_normalized_count.txt	GSM2053481	PVTT	PVTT	gender: female	age: 49	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+P13	GSM2053482_P13.sf_normalized_count.txt	GSM2053482	PVTT	PVTT	gender: male	age: 52	tumor size (cm): 17	hbv infection: Yes	cirrhosis: Yes
+P14	GSM2053483_P14.sf_normalized_count.txt	GSM2053483	PVTT	PVTT	gender: female	age: 51	tumor size (cm): 5.5	hbv infection: Yes	cirrhosis: Yes
+P15	GSM2053484_P15.sf_normalized_count.txt	GSM2053484	PVTT	PVTT	gender: male	age: 47	tumor size (cm): 5	hbv infection: Yes	cirrhosis: Yes
+P16	GSM2053485_P16.sf_normalized_count.txt	GSM2053485	PVTT	PVTT	gender: male	age: 43	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+P17	GSM2053486_P17.sf_normalized_count.txt	GSM2053486	PVTT	PVTT	gender: male	age: 60	tumor size (cm): 3	hbv infection: Yes	cirrhosis: Yes
+P18	GSM2053487_P18.sf_normalized_count.txt	GSM2053487	PVTT	PVTT	gender: male	age: 61	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+P19	GSM2053488_P19.sf_normalized_count.txt	GSM2053488	PVTT	PVTT	gender: male	age: 43	tumor size (cm): 7	hbv infection: Yes	cirrhosis: Yes
+P20	GSM2053489_P20.sf_normalized_count.txt	GSM2053489	PVTT	PVTT	gender: male	age: 64	tumor size (cm): 10	hbv infection: Yes	cirrhosis: Yes
+P21	GSM2053490_P21.sf_normalized_count.txt	GSM2053490	PVTT	PVTT	gender: male	age: 40	tumor size (cm): 7	hbv infection: NA	cirrhosis: Yes
+P22	GSM2053491_P22.sf_normalized_count.txt	GSM2053491	PVTT	PVTT	gender: male	age: 53	tumor size (cm): 19	hbv infection: Yes	cirrhosis: No
+P24	GSM2053492_P24.sf_normalized_count.txt	GSM2053492	PVTT	PVTT	gender: male	age: 62	tumor size (cm): 2.4	hbv infection: Yes	cirrhosis: Yes
+P25	GSM2053493_P25.sf_normalized_count.txt	GSM2053493	PVTT	PVTT	gender: male	age: 48	tumor size (cm): 6.7	hbv infection: Yes	cirrhosis: No
+P26	GSM2053494_P26.sf_normalized_count.txt	GSM2053494	PVTT	PVTT	gender: male	age: 49	tumor size (cm): NA	hbv infection: Yes	cirrhosis: Yes
