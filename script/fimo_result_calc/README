@@ -1,0 +1,7 @@
+This script is used to generate network from FIMO result. The network is represented as an edge list.
+This script requires 5 parameters:
+1. FIMO result file name
+2. True or False, if FIMO result in zip file, it is True and if not it is False
+3. Q-value threshold that will be used
+4. Edge list that represents "to_protein" relationship. This is generated from annotation file of the Ensembl ID to matrix name from Transfac.
+5. Output file name
