@@ -5,4 +5,4 @@ This script requires 6 parameters:
 3. File that contains gene name/ID that the promoter region will be calculated. The name or ID of the gene should match GTF file
 4. Output file name
 5. per_transcript or per_gene, per_transcript means the promoter region will be generated seperately for each transcript, per gene means the promoter region will be merged for all transcript for same gene
-6. Huan genome fasta file, for example Ensembl fasta file that can be downloaded from Ensembl FTP.
+6. Human genome fasta file, for example Ensembl fasta file that can be downloaded from Ensembl FTP.
